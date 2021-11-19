@@ -1,2 +1,2 @@
-# Learn-Python-Full-Course-For-Free-Code-
+# Learn-Python-Full-Course-For-Free-(Code)-
 In this repository, I attached the whole code in a separate file of each video so you can grap this and can practice with this code but please it's request, don't copy paste code, just try to understand how the code runs and what's the logic behind it...
